@@ -1,0 +1,14 @@
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\bin\Debug\net8.0\Stopwatch.exe
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\bin\Debug\net8.0\Stopwatch.deps.json
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\bin\Debug\net8.0\Stopwatch.dll
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\bin\Debug\net8.0\Stopwatch.pdb
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\obj\Debug\net8.0\Stopwatch.dll
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+c:\Users\carlo\OneDrive\Área de Trabalho\C#\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll
